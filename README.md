@@ -6,8 +6,6 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-🔗 **Trải nghiệm trực tiếp:** [wise-spend-v2-0.vercel.app](https://wise-spend-v2-0.vercel.app)
-
 ## 💡 Bài toán & Giải pháp
 
 Sau 6 năm tự quản lý tài chính cá nhân bằng Google Sheets, tôi nhận ra vấn đề lớn nhất không phải là thiếu công cụ ghi chép, mà là: **ghi xong không hiểu ngay dữ liệu đang nói gì**, khiến động lực duy trì thói quen mất dần trước khi kịp hình thành. Đồng thời, hầu hết app quản lý tài chính trên thị trường đều yêu cầu người dùng đưa dữ liệu tiền bạc — thông tin nhạy cảm bậc nhất — vào lưu trữ trên server của bên thứ ba.
